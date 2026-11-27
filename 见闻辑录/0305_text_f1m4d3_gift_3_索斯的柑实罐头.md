@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:28.166187+00:00"
 source_sha256: "144a90471591814a40e55c00a0d395c07586cd896eeb0b6b0a2ccb8011263c09"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 索斯的柑实罐头

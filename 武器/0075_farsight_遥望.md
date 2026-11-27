@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:02:52.361400+00:00"
 source_sha256: "5aa3ff2ead8c89f19a0869cc0686cb131253ad263129d34cf80c3a78cef8b01a"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 遥望

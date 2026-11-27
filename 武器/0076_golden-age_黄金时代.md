@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:00.993959+00:00"
 source_sha256: "2995b81681547b4bf5ceff29f6c76dd48e5956616699d6e2afeafc39fc30466b"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 黄金时代

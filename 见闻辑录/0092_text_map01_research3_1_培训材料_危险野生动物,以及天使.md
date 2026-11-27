@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:03.919195+00:00"
 source_sha256: "b9060daaaed7d2a8ac8aa9ef0b3b8e27575313ff915a6855d24a6adc7c744371"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 培训材料：危险野生动物，以及天使

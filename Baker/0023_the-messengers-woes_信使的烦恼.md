@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:17.145914+00:00"
 source_sha256: "a9320c68fb5d7989cf5f0eb4e7ca3544a16c406ea62caae92d693b0eb5d5c3e2"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 信使的烦恼

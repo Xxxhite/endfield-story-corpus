@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:44.308705+00:00"
 source_sha256: "551ecf6bcb7b026778917c0ba718f625499b8b075f4ee0f12baa6efda8928e9d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 最坚固的约定

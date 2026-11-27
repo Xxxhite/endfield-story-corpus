@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:24.058979+00:00"
 source_sha256: "30d717c35a0079693bbd20309927809f27215bd8bb34fa8a096e10b5b2f9fc93"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 骏卫

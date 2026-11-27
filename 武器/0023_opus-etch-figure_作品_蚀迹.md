@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:24.519231+00:00"
 source_sha256: "6be4fbac2e63dc5dacede523033c9ec3c8bba4ee3d0394681f7db8d06b6a629a"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 作品：蚀迹

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:44.737065+00:00"
 source_sha256: "008d1ffd2f2aa61b7005617bf974367c7a2fad5b62805d84be93eabfb66634fd"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 音感测试

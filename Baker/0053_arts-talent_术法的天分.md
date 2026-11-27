@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:48.625016+00:00"
 source_sha256: "01ee93b274f98afb660fd8f67b0912afbf3a2625b62752e658e8a898551f96a1"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 术法的天分

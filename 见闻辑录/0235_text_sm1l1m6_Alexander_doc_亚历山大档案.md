@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:27:13.524221+00:00"
 source_sha256: "efa113cb773260cdca2ba9aa15b393de55ddac2a10a1a8f648d15d45f13c9296"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 亚历山大档案

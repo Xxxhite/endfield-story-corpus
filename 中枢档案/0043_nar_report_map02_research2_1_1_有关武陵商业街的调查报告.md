@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:27.221570+00:00"
 source_sha256: "1026b9972dc516fef4291afef3eb5d85904639a607b476313e05e11bfa034842"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关武陵商业街的调查报告

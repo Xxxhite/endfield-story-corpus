@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:27:02.705135+00:00"
 source_sha256: "cd1d1fee8cea20b08e16fe99ca29096c4df329855483a4db27ce6d65bb423a0f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 亚历山大记录：其一

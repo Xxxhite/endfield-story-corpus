@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:35.185640+00:00"
 source_sha256: "0c804461dcf548730eb3949931951ac8eb69c1cc7a18af1587a14ed635ccf10a"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 萨米传说·管理员

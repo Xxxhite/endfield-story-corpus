@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:37.925307+00:00"
 source_sha256: "ec049fdf3589e017522de02985a7ba8506ddeb59c4b07963da0235845d79c7e0"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 摩托车的成长

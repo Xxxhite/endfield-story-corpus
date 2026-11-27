@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:17.210635+00:00"
 source_sha256: "c34507dcbaf6a4b46c4ced8fa6c694529b92bad67b3db4fa7a5b8e5927f22118"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 竹铃幽咽

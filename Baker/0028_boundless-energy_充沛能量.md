@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:25.955147+00:00"
 source_sha256: "55ffdb763683d94a6ab9ee1c442c0b1fd6cf73688a3f257d12e24cdd8bd8fb79"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 充沛能量

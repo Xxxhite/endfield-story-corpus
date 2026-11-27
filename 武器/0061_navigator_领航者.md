@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:30.907818+00:00"
 source_sha256: "43052bb4f0f9d8113bab21813e3f88bf674b6194607fcaa7a2b3406fc0558ee6"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 领航者

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:31.265243+00:00"
 source_sha256: "c6859fef43a5f64e900990b051163c9a96d802327fb83efaf085ad31209ea113"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 弧光

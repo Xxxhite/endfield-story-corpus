@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:05:23.289284+00:00"
 source_sha256: "0d19097288ff63217fbc3caa065e6823efbc4fe7be94a3f457334fc865143765"
+introduced_in: "1.7"
+introduced_in_source: "https://endfield.hypergryph.com/news/5979"
 ---
 
 # 突击流星

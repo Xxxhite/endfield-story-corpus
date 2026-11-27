@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:38.884159+00:00"
 source_sha256: "dc0486384707c05f70395873c8ef37a977506c5ca0855c2bcec06822e1282eb1"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 时间胶囊

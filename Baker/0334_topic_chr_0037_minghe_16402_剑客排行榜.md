@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:49.480274+00:00"
 source_sha256: "8e0314c5d67261efd22ee7db25ffef4a2ce1a8ba87e99688895a5787eb9c6787"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 剑客排行榜

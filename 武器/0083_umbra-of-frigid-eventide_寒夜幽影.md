@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:56.080428+00:00"
 source_sha256: "1ee1bdce753db1b733db233bc7a00fa66f925d9afa6b1d7386273a9ed39f659e"
+introduced_in: "1.5"
+introduced_in_source: "https://endfield.hypergryph.com/news/2653"
 ---
 
 # 寒夜幽影

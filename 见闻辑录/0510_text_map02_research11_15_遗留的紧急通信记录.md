@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:30.084168+00:00"
 source_sha256: "5e23891729b0b59b433aadad2e9f6c68f0f5dbe97871b70ba610a8b85c33367b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 遗留的紧急通信记录

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:42.192018+00:00"
 source_sha256: "a418df4a17f23180f9cfe52c7ad0dd1f29a11a3cf48ae0b3f038785121b2f657"
+introduced_in: "1.0"
+introduced_in_source: "https://github.com/rmxlinux/EndfieldData/blob/31f3854bd0702db1e7b856cbb3ce230b71ae4a61/TableCfg/GachaWeaponPoolContentTable.json"
 ---
 
 # 全自动骇新星

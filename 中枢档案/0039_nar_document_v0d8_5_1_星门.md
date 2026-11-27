@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:58.340619+00:00"
 source_sha256: "0c2647f1afcb1d0017905e9fc4e828b6195cab93715cf19362091c083ea6863c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 星门

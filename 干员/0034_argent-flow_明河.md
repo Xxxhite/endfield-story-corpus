@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:28.122340+00:00"
 source_sha256: "095cef4a839eb6c70c0a45098b363292cd810074d6fb9e9196ec7bf52ac7a2a1"
+introduced_in: "1.6"
+introduced_in_source: "https://endfield.hypergryph.com/news/6094"
 ---
 
 # 明河

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:46.991585+00:00"
 source_sha256: "6957f7c7207471791a9a677db74f52026c10aa02ec1f99008945787eece08271"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 清波寨

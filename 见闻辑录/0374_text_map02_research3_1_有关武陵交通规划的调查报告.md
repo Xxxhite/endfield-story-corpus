@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:50.811486+00:00"
 source_sha256: "b9accb828cd741dbd3d86ea19e4fa1ae3e6daf1e2f6dd8ebd84d9c84d1713752"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关武陵交通规划的调查报告

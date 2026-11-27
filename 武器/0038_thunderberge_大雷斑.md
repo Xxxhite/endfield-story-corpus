@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:40.135900+00:00"
 source_sha256: "11f395e8f9708cf2f2db847c0f745db3e85280a0a956a957f108453dca5a89c6"
+introduced_in: "1.0"
+introduced_in_source: "https://github.com/rmxlinux/EndfieldData/blob/31f3854bd0702db1e7b856cbb3ce230b71ae4a61/TableCfg/GachaWeaponPoolContentTable.json"
 ---
 
 # 大雷斑

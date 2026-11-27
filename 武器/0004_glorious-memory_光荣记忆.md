@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:49.069967+00:00"
 source_sha256: "7fab18924cacff2af2392e398f17d48455f368a401ba3aff20490173eb5f5fb4"
+introduced_in: "1.1"
+introduced_in_source: "https://endfield.hypergryph.com/news/6003"
 ---
 
 # 光荣记忆

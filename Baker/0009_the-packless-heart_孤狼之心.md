@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:26.978868+00:00"
 source_sha256: "7b83372c91c65872bf204976064735056c3e987e1ef422bec328abea2a642a6c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 孤狼之心

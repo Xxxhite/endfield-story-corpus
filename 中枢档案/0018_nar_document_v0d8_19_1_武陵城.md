@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:04.268588+00:00"
 source_sha256: "c41daa7b26488a9b92adce3ecc150418b4107c73b5eab563e32eec18bdb3f26c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 武陵城

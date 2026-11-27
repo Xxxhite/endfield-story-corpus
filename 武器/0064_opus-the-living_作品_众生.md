@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:29.297272+00:00"
 source_sha256: "b50dbe449b4d5f65cee37e6242601efb0839f7f0e8e23a611993ade1eb27501a"
+introduced_in: "1.0"
+introduced_in_source: "https://github.com/rmxlinux/EndfieldData/blob/31f3854bd0702db1e7b856cbb3ce230b71ae4a61/TableCfg/GachaWeaponPoolContentTable.json"
 ---
 
 # 作品：众生

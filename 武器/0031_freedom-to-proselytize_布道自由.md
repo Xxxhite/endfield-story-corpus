@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:32.405282+00:00"
 source_sha256: "5296a68b7ca7afda28174e13466acd54a3fd280139dc3f2a598dd4a9daba796a"
+introduced_in: "1.0"
+introduced_in_source: "https://github.com/rmxlinux/EndfieldData/blob/31f3854bd0702db1e7b856cbb3ce230b71ae4a61/TableCfg/GachaWeaponPoolContentTable.json"
 ---
 
 # 布道自由

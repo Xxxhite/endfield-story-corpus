@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:54.866731+00:00"
 source_sha256: "db69b991871e1bbf5ba010e420ed776568f059df7160247bc6039362ae543d8e"
+introduced_in: "1.3"
+introduced_in_source: "https://endfield.hypergryph.com/news/0439"
 ---
 
 # 镀红祝福

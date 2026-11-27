@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:06.095904+00:00"
 source_sha256: "ce39b78d0254a69a4c84fb5971a2982158fb7dbeadda02c2b58491ea5c52ef35"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 用速度丈量大地

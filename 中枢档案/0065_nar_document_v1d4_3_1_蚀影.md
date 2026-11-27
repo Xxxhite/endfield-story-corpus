@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:58.838672+00:00"
 source_sha256: "c870cf6d24b0068fad73ac1d3b34958440ca1f1c8161b13c637d30bd1fa73c51"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 蚀影

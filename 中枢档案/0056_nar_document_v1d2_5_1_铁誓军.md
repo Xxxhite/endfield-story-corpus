@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:10.521204+00:00"
 source_sha256: "a33b1456294d353a6dd30577778c6462c020cdc39fe204c3ea469f148fc3e016"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 铁誓军

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:22.514461+00:00"
 source_sha256: "52847129529aac98770041ad4c1c493cdd60b2fb8f0c012cd759945bf7502d64"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 过度保护

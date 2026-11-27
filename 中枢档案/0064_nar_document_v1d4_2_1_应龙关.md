@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:50.207950+00:00"
 source_sha256: "5005c18aa33724a2f81e47ced07602263e8edc9203f785232fc7f4d38bfd62a9"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 应龙关

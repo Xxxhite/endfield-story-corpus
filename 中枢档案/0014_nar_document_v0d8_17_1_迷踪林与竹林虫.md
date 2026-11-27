@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:38.983905+00:00"
 source_sha256: "f77f4e72f39cc4b1c98571c51a58774b5b101cbbe8befde1c00187d230da7a8b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 迷踪林与竹林虫

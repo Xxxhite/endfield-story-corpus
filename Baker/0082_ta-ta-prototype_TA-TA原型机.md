@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:29.461692+00:00"
 source_sha256: "a75189335d565e93f19c42caa73207e220498714f4e76322e752daf337975af8"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # TA-TA原型机

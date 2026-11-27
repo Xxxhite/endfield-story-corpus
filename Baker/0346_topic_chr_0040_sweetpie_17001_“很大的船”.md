@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:07:18.890750+00:00"
 source_sha256: "9d417d4eb3aac53f93e5a9b0eb545471b02a6c4a3e2b1d6ca477d7e9a2f82e31"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # “很大的船”

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:04.619454+00:00"
 source_sha256: "646d75502efb8ab5eb95db535d046d09724fb9d41dd66222bcef01f079801de3"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 美食邀请

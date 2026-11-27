@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:13.951368+00:00"
 source_sha256: "b3bffbcbabf546123c4cf73b5b1dffa20559d23c3249b664a2c724c254a2743c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 集成工业系统的力量

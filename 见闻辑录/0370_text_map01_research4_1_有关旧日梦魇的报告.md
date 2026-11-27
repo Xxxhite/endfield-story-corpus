@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:16.058042+00:00"
 source_sha256: "5191f4b9ef8c53c71a1a520be47c06068af32fb155c59d2f00ed8f27b32f3a0c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关旧日梦魇的报告

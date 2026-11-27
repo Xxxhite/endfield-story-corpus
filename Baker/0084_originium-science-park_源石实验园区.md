@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:29.540039+00:00"
 source_sha256: "682840070b22fbeddc54af5d9525492c452ba7e45d48d8be31d6a71562e129ce"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 源石实验园区

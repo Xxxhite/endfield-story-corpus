@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:42.931924+00:00"
 source_sha256: "b2b92c4b704578c28fa847b7541db3b96971cb293feb9ab562d8f618f45b8200"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 《遂明杂俎·饮食篇》节选

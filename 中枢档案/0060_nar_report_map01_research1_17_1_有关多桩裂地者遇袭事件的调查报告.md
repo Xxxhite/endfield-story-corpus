@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:35.331515+00:00"
 source_sha256: "c5ee30dc51f451e98625619da88db58bb5787dcb03e1b756ff3db356ca78f968"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关多桩裂地者遇袭事件的调查报告

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:57.534573+00:00"
 source_sha256: "a02a715834f15217edd76267da00bc4e12d2542fffbb605aa6792871b5e3b5cd"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 嗡鸣中的祝福

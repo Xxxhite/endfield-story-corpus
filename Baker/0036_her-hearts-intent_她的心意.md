@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:53.732824+00:00"
 source_sha256: "5a998b10a8597dfac6b9cf8e012c968b1f7ac4f976080efde8479759912a70bf"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 她的心意

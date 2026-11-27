@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:17.772310+00:00"
 source_sha256: "86e1bdf9e56dd94e76a485f4f89986fbca3e2f1a34f3c4c04123369e375f8d72"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 巢雕

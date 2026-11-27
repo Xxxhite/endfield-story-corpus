@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:02.310543+00:00"
 source_sha256: "3460b2cf3d8e89bc22c22aca241faba512205f5ac23e0c52c7dae3852090b73a"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 岩石的故事

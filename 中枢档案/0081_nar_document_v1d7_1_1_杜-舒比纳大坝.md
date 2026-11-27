@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:05:25.091496+00:00"
 source_sha256: "cdc0773952b1f7fbf3ce229336eb85f57ca28d9b268c1be6f83e91599a26453f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 杜-舒比纳大坝

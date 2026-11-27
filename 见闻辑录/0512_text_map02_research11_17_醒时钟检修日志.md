@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:35.044714+00:00"
 source_sha256: "3a2fd3597ecafaef077a3a6f579ae7d43f3b772934995603e994a934ae0e84e7"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 醒时钟检修日志

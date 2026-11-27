@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:27:06.573436+00:00"
 source_sha256: "cb586caecd0caba94b88d4a1cba4c4abb5622d5fe5a7d5c5dfd3b6d708f5fd8f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 老汉斯记录：其一

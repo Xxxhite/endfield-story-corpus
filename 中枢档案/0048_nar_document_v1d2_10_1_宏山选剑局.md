@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:26.546239+00:00"
 source_sha256: "dbaf9e3c459e54207b0a9ac3436d9e73a65292a64ad7a2dc8c6d675b05f13d35"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 宏山选剑局

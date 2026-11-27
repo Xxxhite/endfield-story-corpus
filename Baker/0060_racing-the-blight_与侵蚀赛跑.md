@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:17.886935+00:00"
 source_sha256: "a01b8c41eac95de191a9829a33bc65a28bfcc54aa78d028c32569a6916b11f9e"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 与侵蚀赛跑

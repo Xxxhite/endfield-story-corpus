@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:51.647735+00:00"
 source_sha256: "a83f4004648ff8f4eea6a0bfdde11bdb1f6206136bf5d27b1eefa78fc21f64f5"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 宏山科学院

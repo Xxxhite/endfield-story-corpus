@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:00.890402+00:00"
 source_sha256: "c5ddd67c657bf7ab46cf7d308973b7976812bff9b9fb05edbe3f400775a0e9ed"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 丢失的照片

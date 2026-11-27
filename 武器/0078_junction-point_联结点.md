@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:50.970488+00:00"
 source_sha256: "26a5384d9f120c8c42283b4437f2b8f5f838dbf198615e94ec6c94afa8e8c858"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 联结点

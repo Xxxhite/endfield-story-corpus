@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:55.650464+00:00"
 source_sha256: "cc814eeeff352fef7301de1b9e402223bc18aeb929a50d5eba14b3950e207817"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 大梦一场

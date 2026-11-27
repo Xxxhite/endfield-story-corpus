@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:08.806203+00:00"
 source_sha256: "70660c9fb12f5603cce81aa246f3b2f530c4c0ae76af3ea664478cb07a310477"
+introduced_in: "1.6"
+introduced_in_source: "https://endfield.hypergryph.com/news/6094"
 ---
 
 # 悠久传承

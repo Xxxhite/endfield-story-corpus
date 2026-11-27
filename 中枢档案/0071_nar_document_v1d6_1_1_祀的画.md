@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:25.785915+00:00"
 source_sha256: "b41afa4a2b530c6636d52f7644bfa4423bb83f2f46c45d223b594495a975c53d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 祀的画

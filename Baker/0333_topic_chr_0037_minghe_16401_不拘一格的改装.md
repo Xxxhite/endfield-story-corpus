@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:35.223720+00:00"
 source_sha256: "0509f7eea878ab41a234c7b2c9499d1afee1c0babadbd76a7392446d152fae5f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 不拘一格的改装

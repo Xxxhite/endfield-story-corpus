@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:08.921318+00:00"
 source_sha256: "8fce6f964dfc97f539548652d8f66a41ea5daeb4ac8b6d2baff380d5261cf8fd"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关“遂明”的调查报告

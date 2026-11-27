@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:40.115329+00:00"
 source_sha256: "f8bc38316dd3d28422c82390bcaf734e72838060a390177121e63ae61ad3bb98"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 训练室的统治者

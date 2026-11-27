@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:51.968897+00:00"
 source_sha256: "f46e57d7c0d40d71b5c166fbfbcd68d3a3dcedccb2e32d4a6f92168f50f4f1ab"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 四二式·肃阵

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:24.260391+00:00"
 source_sha256: "46ef6239a25f6b3bff7de5ff09977af3704fd55aaeb2a3988eaaaa7ded7bdefa"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 雪山上的风景

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:02.929098+00:00"
 source_sha256: "5210342f82e49231b07bad4f49932224cfc8da6e1c5bb0ff3cba74b7ecaa1da5"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 安塔尔

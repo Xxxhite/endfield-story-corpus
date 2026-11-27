@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:15.445064+00:00"
 source_sha256: "c17ffe47b5d0d513cf80e4a450d2ec38f7100397174066dc51291a0b9a2d2740"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 众人的武陵

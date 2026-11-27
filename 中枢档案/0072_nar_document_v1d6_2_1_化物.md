@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:30.975659+00:00"
 source_sha256: "67d18ae8f901ee9d5d9d319324d186960f576ec23b3405351ce6b79e48820f81"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 化物

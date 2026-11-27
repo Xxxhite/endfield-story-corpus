@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:46.201416+00:00"
 source_sha256: "b1caa9374356d78d4ac132ca437e1ea239d1a1fd7cb5029f589f25e535c8e07d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 到塞梦珂去

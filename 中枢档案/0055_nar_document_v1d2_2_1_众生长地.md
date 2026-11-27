@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:59.934094+00:00"
 source_sha256: "051a6f18cdd8896f9944e8c6063d2c5d65e422c469c1bb6bcb48b5a72e02ed49"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 众生长地

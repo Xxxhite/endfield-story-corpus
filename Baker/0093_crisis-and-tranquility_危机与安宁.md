@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:57.288882+00:00"
 source_sha256: "93bf914216f2443ef530034183529b2d9021c1ca4753f6c54d4a98aa94b65b8d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 危机与安宁

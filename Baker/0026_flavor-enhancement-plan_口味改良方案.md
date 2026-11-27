@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:22.111261+00:00"
 source_sha256: "94772536b300cb2ad14f5b31f4c7cccb2af4841189dad0facd70b752016f17ac"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 口味改良方案

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:04.102699+00:00"
 source_sha256: "4726bc7d4debf13fab2668f25c84d26cd6532dd54946ea61a9cfbde550c9026f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 北部禁区

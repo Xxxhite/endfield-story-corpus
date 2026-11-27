@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:15.914364+00:00"
 source_sha256: "0f5bcf8f2a775c2edd12ec955154044d6896474b296b9be3b64665f3ea08d621"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 泰拉

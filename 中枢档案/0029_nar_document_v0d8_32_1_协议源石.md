@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:02:48.356258+00:00"
 source_sha256: "05565a383043a1a13011b55772aa54d656a9efd74d6af54f30c4bc9e8b28b46b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 协议源石

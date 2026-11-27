@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:58.234122+00:00"
 source_sha256: "befdbc307dbadb63c5b8246e5c67dffe8bf8478750ce9341eddb611bf174d4a8"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 聂菲斯之死

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:26.500957+00:00"
 source_sha256: "8d71ffd1d13e351c1137bc3f37d7abf63c781a219fead7315f02280beb560e9e"
+introduced_in: "1.2"
+introduced_in_source: "https://endfield.hypergryph.com/news/9343"
 ---
 
 # 雾中微光

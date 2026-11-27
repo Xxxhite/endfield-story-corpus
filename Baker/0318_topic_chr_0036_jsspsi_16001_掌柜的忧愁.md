@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:46.770082+00:00"
 source_sha256: "6b761bac581c87eff52b817ba157b105e31fc98b0d9460e085617ec585d9bd31"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 掌柜的忧愁

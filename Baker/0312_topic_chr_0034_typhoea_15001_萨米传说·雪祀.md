@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:26.559576+00:00"
 source_sha256: "9c47b689463533a1812d4405d025dc9baa6db584a4bdace297a737bc6a0a9744"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 萨米传说·雪祀

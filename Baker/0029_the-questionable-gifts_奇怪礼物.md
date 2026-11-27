@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:36.051070+00:00"
 source_sha256: "64d10c22de61b778ce83e206519506e3a237e4b9eabdf303d463af4903923292"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 奇怪礼物

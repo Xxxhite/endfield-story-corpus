@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:15.537210+00:00"
 source_sha256: "c21569d8dc196c890bda79c407df92e40b4c502640a5445384c9d0f8d4d69c77"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 跟着故乡的风筝

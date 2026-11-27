@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:18.863385+00:00"
 source_sha256: "2eb78ab2a3b7bc37e39c5015f6f4618af51e751bfaabd12d3a930b4227527419"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 《一份夹在书页里的信件》

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:44.393877+00:00"
 source_sha256: "bd1f6c31ec2471a5f2c27ba44820d497f57c1c92e9a0e718e54ac7fbcda342bb"
+introduced_in: "1.3"
+introduced_in_source: "https://endfield.hypergryph.com/news/0439"
 ---
 
 # 幻想苦痛

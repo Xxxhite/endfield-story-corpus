@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:44.835382+00:00"
 source_sha256: "875422d7cf3535e00f17cdf9a018134a12c703b9eab65c55e3e0ed0f22730638"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 种族

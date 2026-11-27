@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:20.258946+00:00"
 source_sha256: "5876a169c2d4474c8e51e46cd2367f397f6dbc8d5cf190d0095c485fe3d641ae"
+introduced_in: "1.1"
+introduced_in_source: "https://endfield.hypergryph.com/news/6003"
 ---
 
 # 狼之绯

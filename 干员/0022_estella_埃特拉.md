@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:36.270953+00:00"
 source_sha256: "031de65b14a12294e501226055514e0905ed01602fae6d598c37c95c2939ac86"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 埃特拉

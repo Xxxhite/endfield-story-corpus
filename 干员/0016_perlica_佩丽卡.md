@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:08.556223+00:00"
 source_sha256: "62b5b4b9ad4a2772cab125feb4abeb2ea4400685d1afdb571792c53b37116403"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 佩丽卡

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:42.529293+00:00"
 source_sha256: "11e657b880eb078430b542e8469a2ada90955a34acc91f2e1f7579495724181b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 城中风貌速览

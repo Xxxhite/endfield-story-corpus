@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:58.185792+00:00"
 source_sha256: "d85e6345515e4eafc8f493d9a6b18301933327cf3a60cb0d00a144a1f8125e0b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 独家日记

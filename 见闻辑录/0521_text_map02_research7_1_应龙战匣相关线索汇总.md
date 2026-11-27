@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:53.264946+00:00"
 source_sha256: "adb8619696147edb20dc23b6481412f46021c9178d4e9a137f7c61a7a66466e5"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 应龙战匣相关线索汇总

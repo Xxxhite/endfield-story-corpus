@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:40.896612+00:00"
 source_sha256: "e6ae8e3dae217dc4d690c2369418b20825f9a495849b69aa740899eb55c41aed"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 基建前站失踪人员搜救报告

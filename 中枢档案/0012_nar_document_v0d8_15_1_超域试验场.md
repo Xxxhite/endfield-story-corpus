@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:07.655987+00:00"
 source_sha256: "edceec889946ded3b7e8bd2c9aeb0b06b8ff940dc77fb6cf1440e88c85f36ad8"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 超域试验场

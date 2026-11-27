@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:27.663815+00:00"
 source_sha256: "2a64ae515266cc6f138db56956c8d5ce05ebc58faf906da66bdbd9bc42a66002"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 柯林斯兄妹

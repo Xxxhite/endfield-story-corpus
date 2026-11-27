@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:41.163251+00:00"
 source_sha256: "f66774af3feb16bd12f705ff4eea6fdc9eb88555d3ee80f217c2fbe05ea78378"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 联盟工团安全局

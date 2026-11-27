@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:46.809382+00:00"
 source_sha256: "6a39c0ff84ba2b04445b95d24daff6a7c74d105fa2633b1ef8781d23681a9cca"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 冰与火

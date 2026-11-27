@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:09.343086+00:00"
 source_sha256: "90ccba57b41394463c099dd00a81ec0dadd5180cf25a46c269ad6e4d0ac121bf"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 新的敌人

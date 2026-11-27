@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:13.699288+00:00"
 source_sha256: "3ae9b4e29cfd10188095dc3684f8565ac6fb73bba6c0c484f2f94fa485bf6052"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 好日子

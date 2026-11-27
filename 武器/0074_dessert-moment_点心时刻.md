@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:50.509905+00:00"
 source_sha256: "078a611f075a5ebe615e3bfe9ff2ff4a98a137ceeb3ad83bac4602fd5576c4f3"
+introduced_in: "1.5"
+introduced_in_source: "https://endfield.hypergryph.com/news/2653"
 ---
 
 # 点心时刻

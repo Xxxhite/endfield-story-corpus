@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:18.751164+00:00"
 source_sha256: "a5f3c128fe777310b303d72e81b3fb0970590b44ae4cbbbb3d5a1f53dc91fe8a"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 建城缘由考

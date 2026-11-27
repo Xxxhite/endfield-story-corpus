@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:09:21.195837+00:00"
 source_sha256: "eaa836bbf5ea9be19c8851154aace133a88633de5e2f8fb8e8e8ef0eb20971c9"
+introduced_in: "1.7"
+introduced_in_source: "https://github.com/rmxlinux/EndfieldData/blob/19d202bca3ba1dad4dd7b161393557fc3d8cb44d/TableCfg/PrtsInvestigate.json"
 ---
 
 # 有关杜-舒比纳大坝建设细节的调查报告

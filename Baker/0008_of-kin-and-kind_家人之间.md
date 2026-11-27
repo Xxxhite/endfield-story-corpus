@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:26.883595+00:00"
 source_sha256: "ee99bf4815c225f54d28f77ff5b94e9e16b39c2e619af04524456036dbaad06b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 家人之间

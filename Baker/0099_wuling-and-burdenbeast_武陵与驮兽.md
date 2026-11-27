@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:14.421483+00:00"
 source_sha256: "018f4e3c5983385cd7e6723dc06f4f945630e5c752342e958b12b9b9bf94c074"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 武陵与驮兽

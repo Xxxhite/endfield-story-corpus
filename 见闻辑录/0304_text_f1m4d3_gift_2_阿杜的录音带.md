@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:29.080423+00:00"
 source_sha256: "44cdd37118ff82d60819b45fa8d0b8de8f956c42a5f42cf935f64d58910fbd18"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 阿杜的录音带

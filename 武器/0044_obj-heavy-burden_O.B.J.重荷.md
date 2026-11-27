@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:57.766631+00:00"
 source_sha256: "6d172d0dd0b9e0b26d5cd2782f6f8498a253cc8fa389c1696a75c2a75f9dc9e5"
+introduced_in: "1.0"
+introduced_in_source: "https://github.com/rmxlinux/EndfieldData/blob/31f3854bd0702db1e7b856cbb3ce230b71ae4a61/TableCfg/GachaWeaponPoolContentTable.json"
 ---
 
 # O.B.J.重荷

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:47.670583+00:00"
 source_sha256: "24cf08cbd0cafc36c8ce0ebb6ae2a29d0566043e06cc630f440f5c0a1683d245"
+introduced_in: "1.1"
+introduced_in_source: "https://endfield.hypergryph.com/news/6003"
 ---
 
 # 洛茜

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:11.931370+00:00"
 source_sha256: "e77636b2c53bf11faeff1e69cdb90d0e4eeb5dd4e22fa9de377849fc4ca3b385"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 定居地全貌

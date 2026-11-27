@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:21.977460+00:00"
 source_sha256: "f22b060864d7e7fa9b3cf39abb36c4a049dd4580028ad45c6ecc954e99dc785d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 恰如武器

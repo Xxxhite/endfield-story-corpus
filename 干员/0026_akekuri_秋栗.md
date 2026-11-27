@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:34.854672+00:00"
 source_sha256: "0375b6371b779c1a6e12617096bffef1abfbc5bc74ee95d80f6da255d2d674bf"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 秋栗

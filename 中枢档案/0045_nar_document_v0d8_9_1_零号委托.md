@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:39.240923+00:00"
 source_sha256: "4f4a25e14452d222ba9ba5f4f658dd661e2418a3bc1c8dc9c400dcf21576a4a7"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 零号委托

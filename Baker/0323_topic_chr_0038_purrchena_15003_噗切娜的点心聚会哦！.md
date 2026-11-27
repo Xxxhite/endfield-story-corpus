@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:02.258700+00:00"
 source_sha256: "74add8ca3a22639b33ccbcb6ea3f6cd9aa798882d25049d51431df64cc9f9ab3"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 噗切娜的点心聚会哦！

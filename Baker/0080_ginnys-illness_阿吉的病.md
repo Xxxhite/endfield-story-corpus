@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:16.357884+00:00"
 source_sha256: "55e0d247c8fffda0e3b5ba516a82407366f2d9892dc5b512b170041b4bfb8330"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 阿吉的病

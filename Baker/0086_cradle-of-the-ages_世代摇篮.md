@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:34.852161+00:00"
 source_sha256: "c05050e3ed0812067418521af4bbe458587528e1274f84d85f4eab3f530059ec"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 世代摇篮

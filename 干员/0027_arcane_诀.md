@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:36.583272+00:00"
 source_sha256: "1272f6dec3dfaeb80da617eba2a0f8fa071f8542de3f27e0f105bfdabfd7a1b2"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 诀

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:09.885633+00:00"
 source_sha256: "94ab002b2a992bf6a05dc5cebfd3812f477cf22725493431328ef2b9f9524342"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 信使的新装

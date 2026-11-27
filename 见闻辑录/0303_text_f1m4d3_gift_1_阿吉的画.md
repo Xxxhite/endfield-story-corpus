@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:16.923178+00:00"
 source_sha256: "a7de91bc25f8b80a8ddd5f97bbc9585c190e527d9509278a7c6f5da3c7ff7f55"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 阿吉的画

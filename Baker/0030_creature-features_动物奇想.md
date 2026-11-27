@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:33.404806+00:00"
 source_sha256: "58c00fe37cfd597c6a31b5a2d99528266cbf5759e9d3aa47fee19859d92ba593"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 动物奇想

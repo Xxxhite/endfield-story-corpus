@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:08:06.588931+00:00"
 source_sha256: "929b55790ef3385c5422d4ce4e56dd142c5ddae931bc996607f492d59a09d875"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # “很长的路”

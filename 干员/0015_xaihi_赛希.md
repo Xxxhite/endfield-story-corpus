@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:06.081895+00:00"
 source_sha256: "93e8c335950c148b14d72de79614e61fdf4ef264e4eb8696c9cc082ea4e4e26d"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 赛希

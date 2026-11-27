@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:21.477110+00:00"
 source_sha256: "2f11fb1115318d9c37cd2060216548da740eae0e8b31b12ab04a2b010b5ca23c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 兽主

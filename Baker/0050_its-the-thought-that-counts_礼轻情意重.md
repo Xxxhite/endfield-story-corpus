@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:36.009136+00:00"
 source_sha256: "5d17373eb0c6bf2ecd99d37d2830728c3fabe215975d8bb289421af420d36c8b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 礼轻情意重

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:43.906473+00:00"
 source_sha256: "fb7c6a708af2ca2ee48c435b6cf52b9771c3e05c52cc3b9755368416155c2db2"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 灾害的前兆

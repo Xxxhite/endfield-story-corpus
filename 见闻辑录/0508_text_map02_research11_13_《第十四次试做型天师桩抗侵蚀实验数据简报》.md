@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:24.909404+00:00"
 source_sha256: "e8960a5a1583459c851675046b0f38095b31ffe2c7699796733bcbe79305ce2c"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 《第十四次试做型天师桩抗侵蚀实验数据简报》

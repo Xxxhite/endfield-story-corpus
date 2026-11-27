@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:54.312315+00:00"
 source_sha256: "2101dd9faa6a26930421be7abc110708e03f7e1cc8574862b1bfc578dfaa9fed"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 奇人辑录

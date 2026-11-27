@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:24.085221+00:00"
 source_sha256: "73ee59df3b63c40edac0865ae93f07db9013606f97539eedc438a5bd7e46f48d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 材料研究所实验报告留档

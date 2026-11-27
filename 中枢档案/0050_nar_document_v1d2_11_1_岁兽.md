@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:34.641471+00:00"
 source_sha256: "c5486ac0f6c30024e78c533d41f34ae46ee61af1a8b30b913456bf4d68ad2900"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 岁兽

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:44.527238+00:00"
 source_sha256: "c63c3adbfceae231bb0dea0f931f28c94f2e3459bff4e91eab632cff2ac0c7ab"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 伊冯

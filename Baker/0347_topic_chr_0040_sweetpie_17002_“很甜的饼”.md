@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:08:04.534130+00:00"
 source_sha256: "7b62a143bf1be158f59d317edee7a079910e6c459bb1f36d6a6f10f126aabe91"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # “很甜的饼”

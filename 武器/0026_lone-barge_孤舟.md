@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:59.632270+00:00"
 source_sha256: "daa4f52a4f4491c9ed009a693b4b0e4e1d8805ae756073e36a5978007e64b474"
+introduced_in: "1.2"
+introduced_in_source: "https://endfield.hypergryph.com/news/9343"
 ---
 
 # 孤舟

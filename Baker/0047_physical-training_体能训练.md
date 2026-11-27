@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:27.533674+00:00"
 source_sha256: "69f0fcf752a2a97fd43043f3c233ff5e14ea53df3cc7d354207b0b6d2bdb19ef"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 体能训练

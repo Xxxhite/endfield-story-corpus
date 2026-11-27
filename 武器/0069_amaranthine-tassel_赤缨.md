@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:33.913108+00:00"
 source_sha256: "857235d89293f87b381c09a4185d36743293c21b8254cfabb9f93da358e6fd83"
+introduced_in: "1.3"
+introduced_in_source: "https://endfield.hypergryph.com/news/0439"
 ---
 
 # 赤缨

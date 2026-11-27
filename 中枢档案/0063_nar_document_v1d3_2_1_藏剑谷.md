@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:45.203625+00:00"
 source_sha256: "ed12d9bad5e68f654ddeacd6ca87a793003adec63787aa7d4cc8bc35a57f8fc1"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 藏剑谷

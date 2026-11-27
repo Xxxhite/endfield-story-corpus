@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:09:18.914020+00:00"
 source_sha256: "99f7d956a67c9e834541c8129b564eac0fe3c2ce592a71e762954a22cf4137e3"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关雪松林运作模式的调查报告

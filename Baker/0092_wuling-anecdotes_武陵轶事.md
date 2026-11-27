@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:51.448894+00:00"
 source_sha256: "c4ecb2056c7493f4dc77bf7cacd2d48120f61d2dabf54d4964177c14adb0c51a"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 武陵轶事

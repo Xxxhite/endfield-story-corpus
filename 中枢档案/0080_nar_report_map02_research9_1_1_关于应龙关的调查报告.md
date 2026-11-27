@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:10:02.974065+00:00"
 source_sha256: "5225c922cbe357db2d11625ef19c879bc4ce172fd7ebec2f8e9ef93f1de4b5f3"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 关于应龙关的调查报告

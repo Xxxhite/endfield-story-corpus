@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:26.047973+00:00"
 source_sha256: "01d8702b70ca0e4aefd2d4236978bdddc70157ff48df22592a83eba7d384cd3d"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 侵蚀

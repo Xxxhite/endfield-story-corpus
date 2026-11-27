@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:27.108305+00:00"
 source_sha256: "67556e069d6603fabfdfbbb2ac0cfda26350785f64f7be544557c8c61c3a2cd5"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 武陵甚大裂隙

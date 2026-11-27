@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:02.590744+00:00"
 source_sha256: "c8c1efb53637d7cb602fefe5d730502038795b0a59f6b1e1fcb311427610fc2e"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 集成工业系统（AIC）

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:04.971173+00:00"
 source_sha256: "8fa851bcc22788796a3ded6bb411566c2782a7e4a48fd349e4975d1f09da2a62"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 见风停·下

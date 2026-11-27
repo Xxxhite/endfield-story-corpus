@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:38.116864+00:00"
 source_sha256: "105b94c207f876ab98d8ada434f9ae5bd07a23d39797d34d26d9507c69904505"
+introduced_in: "1.5"
+introduced_in_source: "https://endfield.hypergryph.com/news/2653"
 ---
 
 # 噗切娜

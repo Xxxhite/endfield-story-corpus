@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:13.810364+00:00"
 source_sha256: "fa9dcd541610a79d90fdc4d8f06b4527d72f487b542e20a2d53602fd5496e261"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 四号谷地的天使活动

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:13.505812+00:00"
 source_sha256: "c74c0cadb1d840ced9f798b84a738c70a1ba253d7f33fb81a11c1b925635682b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 四号谷地

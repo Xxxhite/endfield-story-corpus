@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:47.646114+00:00"
 source_sha256: "e766ee0ff3ac6d31c32c49245ed391d609cf22c20d265a8b68ca00bec44dd4d1"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 大潘

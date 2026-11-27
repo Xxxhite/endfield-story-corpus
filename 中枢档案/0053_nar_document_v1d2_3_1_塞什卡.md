@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:01.796049+00:00"
 source_sha256: "f3bd7251c2c36123263e317912b3e211883338d2fd63a22700239fbd8f5419c7"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 塞什卡

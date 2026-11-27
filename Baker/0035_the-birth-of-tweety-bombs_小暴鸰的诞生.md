@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:47.974816+00:00"
 source_sha256: "af468d2a904b9ad74984edd34a774e7c2f025c44cf43bbbe20a169895f09d8cd"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 小暴鸰的诞生

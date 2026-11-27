@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:16.483645+00:00"
 source_sha256: "8b6ae6e823793793d07d6a1164eb99a497c3db0f753dae135111081fd366750a"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 商业竞争？

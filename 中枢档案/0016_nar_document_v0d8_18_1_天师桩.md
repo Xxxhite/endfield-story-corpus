@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:52.006235+00:00"
 source_sha256: "7870e0de3e0c6597e816190dc35df1a22f20980b0977aa82d801665508a43bd4"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 天师桩

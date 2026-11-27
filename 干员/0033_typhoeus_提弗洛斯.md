@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:33.002877+00:00"
 source_sha256: "23d5278183b3e7bb0285b4d3aa840438222b6dd729e613d7a62fb7456b4653d1"
+introduced_in: "1.5"
+introduced_in_source: "https://endfield.hypergryph.com/news/2653"
 ---
 
 # 提弗洛斯

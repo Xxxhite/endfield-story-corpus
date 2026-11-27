@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:39.053124+00:00"
 source_sha256: "3e6f1c739808b2f0dfadee45a227163f932caacaaf85e152b949d666a08ac8ca"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 首墩

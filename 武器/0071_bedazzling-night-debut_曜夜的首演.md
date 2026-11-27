@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:39.268938+00:00"
 source_sha256: "a011d2ade5a3d23ab07a1aef6ea6282b0ad00d770e12c0544a75424a4c378a92"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 曜夜的首演

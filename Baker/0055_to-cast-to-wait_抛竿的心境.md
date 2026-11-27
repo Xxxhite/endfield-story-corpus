@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:53.808981+00:00"
 source_sha256: "2d96e2355a79ba8f4c6e0812f08b1985d0c354639c91aa2af80a27545c3ed39e"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 抛竿的心境

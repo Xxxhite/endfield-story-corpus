@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:09.826895+00:00"
 source_sha256: "aa46105cd0512da7f863cc5e012fb0dfd598d7b31aeb4637a0ca206af7959bb5"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 第一次天使战争

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:46.930755+00:00"
 source_sha256: "70435f9c0995b9bde0cf0ef993615f932d2b84159dc3509840ecafc13b136331"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 机械故障

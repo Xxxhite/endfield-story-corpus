@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:08.326471+00:00"
 source_sha256: "1c871082329f692ad31f1a41d2a34966119f548afe9b7a74eacb4ffc26945baf"
+introduced_in: "1.1"
+introduced_in_source: "https://endfield.hypergryph.com/news/6003"
 ---
 
 # 落草

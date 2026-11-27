@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:17.117609+00:00"
 source_sha256: "6d91073b87871a45375367532ed49f883384751efb471b76abc6b5ed3627e948"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 世间巡游

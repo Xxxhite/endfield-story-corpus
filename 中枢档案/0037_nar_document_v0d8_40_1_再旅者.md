@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:35.299601+00:00"
 source_sha256: "27e3082426ad6ba2730b09f2b958871fc08b05c213b241e6e1fa670a317f0864"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 再旅者

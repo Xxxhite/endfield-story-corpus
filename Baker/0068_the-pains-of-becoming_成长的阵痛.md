@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:34.076490+00:00"
 source_sha256: "9015151e6b6f7a885a24a7298e12d6e2083ebd46f8f07bfd8f05145841deee69"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 成长的阵痛

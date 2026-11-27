@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:22.133935+00:00"
 source_sha256: "23dc7186aee0e3c7b9738f592d351377f26a5d9854a9dd6561ac4713597ec927"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关超域试验场的调查报告

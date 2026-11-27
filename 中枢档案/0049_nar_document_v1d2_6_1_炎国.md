@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:14.648815+00:00"
 source_sha256: "3e421cfabb1c10392965f3909177b4799bed1787143a16723c860847ce2fd6bf"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 炎国

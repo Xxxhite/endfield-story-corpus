@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:02:43.345434+00:00"
 source_sha256: "a692f8a1d87dab44520340549188e30e50874ffc7d98334c4dfdfd8e731c2a4a"
+introduced_in: "1.4"
+introduced_in_source: "https://endfield.hypergryph.com/news/9335"
 ---
 
 # 梨诺

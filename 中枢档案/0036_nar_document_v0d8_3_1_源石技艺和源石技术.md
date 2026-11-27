@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:19.970058+00:00"
 source_sha256: "c455b36bd14bfe322d936889ec5efda712af7dfa09cfed0e1e2b95fc39c57247"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 源石技艺和源石技术

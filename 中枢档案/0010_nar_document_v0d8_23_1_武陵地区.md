@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:45.064439+00:00"
 source_sha256: "f4fc6c2445be4a4c286e7f23927470fffd7c4f2ca475dafaca6796b5eb329194"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 武陵地区

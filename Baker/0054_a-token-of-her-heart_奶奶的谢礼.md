@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:50.932569+00:00"
 source_sha256: "2423cc068933a107e3d7eba7522b0cb1694c26530a9e07dfc84562b28de121bc"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 奶奶的谢礼

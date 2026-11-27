@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:29.448570+00:00"
 source_sha256: "aaa918b3529ceb7f2252792d8d8c077a47065d6c6cfee670b59028136ec98a29"
+introduced_in: "1.6"
+introduced_in_source: "https://endfield.hypergryph.com/news/6094"
 ---
 
 # 玉中身

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:29.960362+00:00"
 source_sha256: "170e64644de7837823027bc6d25d3e0aef1089aba9ccff852fa04275dd710732"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 英雄阿伯莉

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:34.888176+00:00"
 source_sha256: "b9e1baeafe11a66ea12bacc7c6f51edf6a057b4580e0c349c385be0831712609"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 荒野的故事

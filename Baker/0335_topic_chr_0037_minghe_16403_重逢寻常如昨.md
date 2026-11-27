@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:01.131748+00:00"
 source_sha256: "e17d433abf1afd400bba99caab5ca1130f33d188a209c268d468c57cd6bc5a13"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 重逢寻常如昨

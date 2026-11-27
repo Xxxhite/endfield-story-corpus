@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:18.185923+00:00"
 source_sha256: "c1c915dbe953d1244297c02ff99cc236da53eae7128d5993667eface7b682097"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 祖泉与清波

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:32.360212+00:00"
 source_sha256: "008daa59cfff5c309b1fc3c0b16024e13eb25e77a882fed48f494048634a81f3"
+introduced_in: "1.2"
+introduced_in_source: "https://endfield.hypergryph.com/news/9343"
 ---
 
 # 庄方宜

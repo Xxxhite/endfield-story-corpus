@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:06.535014+00:00"
 source_sha256: "6463d7b8b5004ad882a46b3bed1aa8d7f616307b4c1ea42098c5b840023ae899"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 偷闲时间

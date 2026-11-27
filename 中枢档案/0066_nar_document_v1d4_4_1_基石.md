@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:00.710883+00:00"
 source_sha256: "1bb78dccfb524ff2018ac4e8d4a951328ae8191851ba9e052c3939f703920e95"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 基石

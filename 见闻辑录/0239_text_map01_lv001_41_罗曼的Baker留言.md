@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:10:47.062806+00:00"
 source_sha256: "32ccf4f6a168438f1fe1ee2993e903b8c01c5c46a0e45d52ded4b21b891bd412"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 罗曼的Baker留言

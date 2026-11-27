@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:54.628477+00:00"
 source_sha256: "daa3abab5a56cec0d3a74a7452e99a907e488ae429b144a483d43bdee1cd8864"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关碾骨氏族的调查报告

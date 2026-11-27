@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:36.534804+00:00"
 source_sha256: "17ff62834a3e1475b5ef2d02b5f733e1d57ba2590f042c7f711d8636919113b1"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 《侵蚀潮灾害应急处理手册（节选）》

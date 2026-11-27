@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:32.628663+00:00"
 source_sha256: "dc318a58dcd767fa64cd9a444617f9fb09a4504508405e8143c2b5c9ae9b9498"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 救援行动

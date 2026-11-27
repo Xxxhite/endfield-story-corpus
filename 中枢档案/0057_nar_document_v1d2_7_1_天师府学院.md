@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:21.218520+00:00"
 source_sha256: "575cc71460ed4322b32548cfe4510cd25416bbfc5377bf4fb805c46556127993"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 天师府学院

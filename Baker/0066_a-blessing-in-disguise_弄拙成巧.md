@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:28.251591+00:00"
 source_sha256: "eae3f0e10eaef434883969289626dfb10bb912d852e40c9ef2963dfac8870bae"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 弄拙成巧

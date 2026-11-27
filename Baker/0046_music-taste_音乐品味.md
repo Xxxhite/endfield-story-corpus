@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:39.315829+00:00"
 source_sha256: "47708de1dde199476a4e951b34ee600d5253510bac7ef2448ac7ad11cbbe9ef0"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 音乐品味

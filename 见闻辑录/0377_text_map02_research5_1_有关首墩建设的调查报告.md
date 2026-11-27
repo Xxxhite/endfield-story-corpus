@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:50.622117+00:00"
 source_sha256: "1977ffcb0f45fc2f6f5ecf65f3f7ff49afceaaf8b2b7c2d1d2ec939c420e4abf"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关首墩建设的调查报告

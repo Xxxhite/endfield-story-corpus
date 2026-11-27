@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:21.975008+00:00"
 source_sha256: "ad380da0c0cec3eb1be5983e8f8c9d5c41ab0d36f7328c5d7a68b9fd39d8bd50"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 卡契尔

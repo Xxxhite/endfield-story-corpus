@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:33.718748+00:00"
 source_sha256: "5944ff2a0511de322dca9ffef5cdce76205de61afb80955df0aed450c5208d18"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 使命必达

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:59.067040+00:00"
 source_sha256: "7d55406dd7cb5066b003805c74170939b2eb335559ac32ff9c63f730472f2287"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 很酷的画

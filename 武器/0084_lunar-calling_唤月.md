@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:58:11.631171+00:00"
 source_sha256: "2ae7f1ed00d2806bf5e0f5fe9996cfe947279374b86a717258576ee6a72b0ef0"
+introduced_in: "1.6"
+introduced_in_source: "https://endfield.hypergryph.com/news/6094"
 ---
 
 # 唤月

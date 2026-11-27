@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:28.988107+00:00"
 source_sha256: "e3362401a6e6bee692aa357f68f027e9292eb0987dea82ed023de4a117a73aac"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 宝藏难得

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:24.149941+00:00"
 source_sha256: "290c506438435031e43b07ab5cdd6e74c5ab77a6c6fa2a240a4126b4398d53c1"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 重要特邀嘉宾

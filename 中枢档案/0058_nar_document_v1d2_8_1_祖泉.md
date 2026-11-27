@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:26.814005+00:00"
 source_sha256: "f3281a9b5bb5e7f73b75ad301158c897241fe93d72429a40e10d88067e56f70f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 祖泉

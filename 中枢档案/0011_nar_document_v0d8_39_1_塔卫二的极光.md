@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:04:08.867517+00:00"
 source_sha256: "66cf687a085df190189704ab8c9350c43ed3c5a7f8baf963c357d1f1543d67d5"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 塔卫二的极光

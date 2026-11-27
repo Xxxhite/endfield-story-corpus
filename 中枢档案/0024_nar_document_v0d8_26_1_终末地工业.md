@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:19.290264+00:00"
 source_sha256: "b0f9fde9d0b3dc53746ae3d8c90d30a041758d66ab066dbf9ec57c9c050cb502"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 终末地工业

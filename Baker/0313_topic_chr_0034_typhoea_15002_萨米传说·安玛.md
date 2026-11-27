@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:28.663772+00:00"
 source_sha256: "a366de16b7c646078af7e515ba8ba39e1d9d5d916ef8ccfd640593dd1cecff1f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 萨米传说·安玛

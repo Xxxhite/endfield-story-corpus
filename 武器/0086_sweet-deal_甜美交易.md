@@ -8,6 +8,8 @@ game_data_version: "1.7"
 warfarin_updated_at: "2026-11-25"
 fetched_at: "2026-11-25T17:05:34.958980+00:00"
 source_sha256: "657bf36b027388aec8f0b3bd630f1098959f2694603120212605afa65755d236"
+introduced_in: "1.7"
+introduced_in_source: "https://endfield.hypergryph.com/news/5979"
 ---
 
 # 甜美交易

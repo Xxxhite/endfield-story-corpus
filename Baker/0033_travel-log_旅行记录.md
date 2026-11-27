@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:44.974261+00:00"
 source_sha256: "f0a7e803edfd20caa4c07fa0470f8fa5bd8a45481625d0a433f23d01bcba6800"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 旅行记录

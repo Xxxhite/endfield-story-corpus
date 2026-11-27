@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:52.353808+00:00"
 source_sha256: "868e75452b6d9bf797392867adea0be691af80825b659092908d78c2b2865d12"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关清波寨建设历史的调查报告

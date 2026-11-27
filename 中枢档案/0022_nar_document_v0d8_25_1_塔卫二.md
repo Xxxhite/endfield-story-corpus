@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:08.273790+00:00"
 source_sha256: "52b7899e002b0549abeca8c836b40de99e98ef4d4cebca6c9e1efd3dc392c476"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 塔卫二

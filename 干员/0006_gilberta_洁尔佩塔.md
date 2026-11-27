@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:49.730473+00:00"
 source_sha256: "7a365f8e2f421d77dd0a90891b3a1cb658361fd03071f0e0b0002aa60c198051"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 洁尔佩塔

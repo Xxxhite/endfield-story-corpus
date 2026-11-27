@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:19.049162+00:00"
 source_sha256: "41186b37fcc9a553eec3a15afe2a67060651561751ae49477b3eef9067cbb066"
+introduced_in: "1.3"
+introduced_in_source: "https://endfield.hypergryph.com/news/0439"
 ---
 
 # 灯火使命

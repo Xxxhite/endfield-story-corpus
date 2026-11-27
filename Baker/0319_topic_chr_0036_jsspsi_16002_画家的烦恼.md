@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:46.487321+00:00"
 source_sha256: "42e82c732b513f45bb3b8e97175b88abb744ba4bdb779f7c0b3d9bb5fe7372fe"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 画家的烦恼

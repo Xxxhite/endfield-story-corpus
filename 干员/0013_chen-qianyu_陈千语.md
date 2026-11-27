@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:00:41.567913+00:00"
 source_sha256: "bba43b534a233ec87748afacd85b75d24ff9bb0b1eaccba4cc0146671677abc1"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 陈千语

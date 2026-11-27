@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:22.012776+00:00"
 source_sha256: "fcb016ff5720baba82f25ce243359b2e49f3d9a005a855d6a48286a48bb2fd4b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 应龙特勤队

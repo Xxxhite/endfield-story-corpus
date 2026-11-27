@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T12:59:59.751814+00:00"
 source_sha256: "1a1cebf8be5c6b79d87853ed7ffbd193f9ff2204ec953a8a345717f69a0628b6"
+introduced_in: "1.0"
+introduced_in_source: "https://web.archive.org/web/20260208003638id_/https://warfarin.wiki/en/operators"
 ---
 
 # 艾维文娜

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:48.075459+00:00"
 source_sha256: "82d4e20654c5538adba9a2e1d41f5f899779c1543e99aa94a6db4663c247ccb2"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 聊天机器

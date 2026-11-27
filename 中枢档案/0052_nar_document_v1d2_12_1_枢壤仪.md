@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:06:43.098588+00:00"
 source_sha256: "8091cf3ba1f712311b2dea81d363367bbed84dd27b30257ae598d8c52271b256"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 枢壤仪

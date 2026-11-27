@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:03:40.457465+00:00"
 source_sha256: "964226b1d1aaa6dadbd6cbb1a2bfa6665b85f696afc925dfd6ef492769ef7f80"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 天使

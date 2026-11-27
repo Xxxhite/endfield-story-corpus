@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:51.494748+00:00"
 source_sha256: "78ea544e8ee290c23400d661a73b9cfe1a86e90e3bb91cefedb38a22431f802f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关藏剑谷炎国遗迹的调查报告

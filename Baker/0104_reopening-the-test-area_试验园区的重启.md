@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:27.929714+00:00"
 source_sha256: "8a1dc946afaf7827daece8bd529aac4faa9dfafdef88f475666d5945aed29a8b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 试验园区的重启

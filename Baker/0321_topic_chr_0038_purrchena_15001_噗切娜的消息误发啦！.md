@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:54.103107+00:00"
 source_sha256: "bb1e9b4f5a844f516627217e347b08a9bfdacfd0397a96d3f95b414fe51bd888"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 噗切娜的消息误发啦！

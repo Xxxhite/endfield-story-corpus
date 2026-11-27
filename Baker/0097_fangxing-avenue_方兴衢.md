@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:23:06.649138+00:00"
 source_sha256: "ca0784f176e4e3db3cd2e393b58d2d900c4d62ae41f94b5c6de1b7a006ff70e2"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 方兴衢

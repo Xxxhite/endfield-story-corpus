@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:24.601599+00:00"
 source_sha256: "6081e9d1afe7fb89e3efd41b5d553a8e204fed8b0fea5071c7c5400dc8986726"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 《我的妈妈》

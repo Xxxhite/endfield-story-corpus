@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:03.982477+00:00"
 source_sha256: "33016999891f64bdb9a375b6f735cbe7ab14d38bc805cf90a3dab3243e5ddca6"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 为大地发声

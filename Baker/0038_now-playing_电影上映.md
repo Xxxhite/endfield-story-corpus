@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:18:58.676238+00:00"
 source_sha256: "c4afbbe90008ecac1aa5e64661e34ef968e4bb5a12217eff04035f4d93d82c6e"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 电影上映

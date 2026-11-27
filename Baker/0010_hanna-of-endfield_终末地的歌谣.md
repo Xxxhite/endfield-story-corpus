@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:17:33.145847+00:00"
 source_sha256: "d16191b94cbb209a13490d716da1a4225a914d68090a15ced9d86017d5ca31eb"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 终末地的歌谣

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:47.199754+00:00"
 source_sha256: "8ef58e3fda03afcd305fd426f52ad52683ca12f3c156d432bf40f747853cb13b"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 战士的雪

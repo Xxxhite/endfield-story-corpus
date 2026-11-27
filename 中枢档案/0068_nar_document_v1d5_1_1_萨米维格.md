@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:12.133134+00:00"
 source_sha256: "f62c74272bacf45c780df82a23b4ddbd9236d4617b0a0fb82e4e9fa8e62aa3d1"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 萨米维格

@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:22:41.843347+00:00"
 source_sha256: "6afa310b8ed86d49cfead6d7aa7b0810ecf07db5f7379f7aa75e87294f4ca131"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # “烙铁指令”

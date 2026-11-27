@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:01:20.090133+00:00"
 source_sha256: "99a0191d44a01fbfdfbadd57b21e775e0df624c6810d2d991d79a182423e05dd"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 达尔霍夫7

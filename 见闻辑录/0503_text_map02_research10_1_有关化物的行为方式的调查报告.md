@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:17.466382+00:00"
 source_sha256: "dc6b78eaf8101bc9c6773c18b192d550053745b264760c232579c06f8c15b05f"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 有关化物的行为方式的调查报告

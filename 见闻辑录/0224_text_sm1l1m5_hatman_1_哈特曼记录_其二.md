@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:27:14.071203+00:00"
 source_sha256: "df1a5337d827313285ba3668414ddb3c9bd8c676e7e4c494457621c4ff9cb669"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 哈特曼记录：其二

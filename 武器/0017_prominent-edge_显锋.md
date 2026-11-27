@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:08:48.677714+00:00"
 source_sha256: "466564d57ca403421eac392f715cf94fa92c3a809f4a2dd069b33c2c696630dc"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 显锋

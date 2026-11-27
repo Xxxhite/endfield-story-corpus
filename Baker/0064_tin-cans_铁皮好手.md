@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:20:28.298720+00:00"
 source_sha256: "b43b54e17c6691710d79531a6f13a5638f9d7e36805f8d561cdf3a4c53578569"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 铁皮好手

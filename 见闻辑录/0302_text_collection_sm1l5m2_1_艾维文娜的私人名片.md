@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:07:02.629922+00:00"
 source_sha256: "93c2c96d904735c3f754e2eebfd684e7f71d58e489f2efdc044f8474dc08d477"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 艾维文娜的私人名片

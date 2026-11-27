@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:02:36.183688+00:00"
 source_sha256: "898d08ba5a7b556e882c567f15a0a62f667ff3a7b9112305d9f4efb8b8fdbb63"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 源石在塔卫二

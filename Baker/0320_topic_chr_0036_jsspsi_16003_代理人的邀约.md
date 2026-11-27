@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:21:51.412918+00:00"
 source_sha256: "ae77cb8848e2ddad1e9b7e7922e8fc8e00fa1e2a19d91570e24d0dd7f9974b03"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 代理人的邀约

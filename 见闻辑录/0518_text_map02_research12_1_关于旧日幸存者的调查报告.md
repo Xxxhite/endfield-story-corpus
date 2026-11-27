@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:26:45.314996+00:00"
 source_sha256: "5a34dc8fa6e039e00e1cdf929e6b443227e333af6179ba79e8def5ffd7950652"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 关于旧日幸存者的调查报告

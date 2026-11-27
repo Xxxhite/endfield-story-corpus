@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:19:59.145178+00:00"
 source_sha256: "13f7f449c2baa5847f453d865e843dbf4eac4f904718e106b83d1d813571c9e7"
+introduced_in: null
+introduced_in_source: null
 ---
 
 # 书本的价值

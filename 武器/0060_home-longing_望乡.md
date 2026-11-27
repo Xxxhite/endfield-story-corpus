@@ -8,6 +8,8 @@ game_data_version: "1.6"
 warfarin_updated_at: "2026-11-05"
 fetched_at: "2026-11-07T13:05:19.803431+00:00"
 source_sha256: "30966775800bf4218ec0cabe7250be9fe8e025d445fb1db4dfe77435a9a9a7c7"
+introduced_in: "1.1"
+introduced_in_source: "https://endfield.hypergryph.com/news/6003"
 ---
 
 # 望乡
